@@ -229,6 +229,6 @@ def graph(x_ax, y_ax):
     plt.show()
 
 
-read_random()
+read_all_avg()
 #get_all_avg()
 graph("index in list", "operations")
